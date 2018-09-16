@@ -1,4 +1,4 @@
-[macOS Setup Guide](https://sourabhbajaj.com/mac-setup)
+[macOS Setup Guide](https://tux.co.id/mac-setup)
 ====================
 
 | branch | status |
@@ -20,16 +20,6 @@ Even if you don't program in all of them, they are useful to have as many
 command-line tools rely on them. We'll also show you some useful daily use
 applications. As you read and follow these steps, feel free to post any
 feedback or comments you may have.
-
-Contributing to the guide
-====================
-
-All contributions to the guide are welcome. Please help add support for other
-libraries and languages. To make a contribution please use our [contribution
-template](.github/CONTRIBUTION_TEMPLATE.md).
-
-**We're looking for more contributors to maintain and extend the
-documentation.**
 
 -------------------------------------------------------------------------------
 
